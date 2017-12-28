@@ -1,0 +1,226 @@
+@media screen and (max-width:1000px) {
+    #shiva {
+        font-size: 9em;
+    }
+    .awards_bg {
+        visibility: hidden;
+    }
+    .title_sec4 h1 {
+        font-size: 10em;
+    }
+    .title_sec4 p {
+        font-size: 3.5em;
+        line-height: 86px;
+    }
+    .warpper {
+        width: 90%;
+        text-align: center;
+    }
+    .count_number p {
+        width: 100%;
+        margin-top: 20px;
+        padding: 20px 0px 20px 0px;
+    }
+    .TriniButton {
+        padding-left: 45px;
+        padding-right: 95px;
+        position: relative;
+        padding-top: 90px;
+    }
+    .MenuButton img {
+        width: 39%;
+        max-width: 100%;
+    }
+    #section3 {
+        width: 100%;
+    }
+    .youtube_video ul li {
+        width: 100%;
+    }
+    #counting03 {
+        padding-bottom: 0;
+    }
+    .readmore {
+        visibility: hidden;
+    }
+    .section_separator {
+        visibility: hidden;
+    }
+    .title_section3 h1,
+    h2 {
+        line-height: 184px;
+    }
+    .title_section3 h1 {
+        font-size: 13em;
+    }
+    .title_section3 h2 {
+        font-size: 7em;
+    }
+    .title_section3 p {
+        font-size: 1.9em;
+    }
+    #section01 h1 {
+        font-size: 13em;
+    }
+    #section01 h2 {
+        font-size: 7em;
+    }
+    #section01 h1,
+    h2 {
+        line-height: 168px;
+    }
+    #section01 p {
+        font-size: 3.4em;
+        line-height: 86px;
+    }
+    #section02 {
+        flex-direction: column;
+    }
+    .description_2 {
+        width: 100%;
+        padding: 0;
+    }
+    .description_2 p {
+        font-size: 46px;
+        color: #232323;
+        font-family: Arial, Helvetica, Sans-serif, Geneva, Tahoma;
+        border: 3px solid #fff;
+        padding: 50px;
+        margin-top: 34px;
+        width: 87%;
+        border-radius: 23px;
+        position: relative;
+        text-indent: 0;
+        text-align: left;
+        line-height: 74px;
+    }
+    .gallery_section2 {
+            width: 100%;
+    flex-grow: 1;
+    height: 1060px;
+    /* float: left; */
+    text-align: center;
+    }
+    
+    .description_2 p:before {
+        content: '';
+        position: absolute;
+        /* left: 60px; */
+        top: -25px;
+        left: 0;
+        margin: 0 auto;
+        width: 0;
+        height: 0;
+        border-left: 25px solid transparent;
+        border-right: 25px solid transparent;
+        border-bottom: 25px solid #fff;
+        right: 0;
+    }
+    .whitme h1 {
+        font-size: 11em;
+    }
+    .description_2 h2 {
+        color: #fff;
+        font-size: 3em;
+    }
+    .linenam {
+        position: absolute;
+        top: -125px;
+        z-index: 1;
+        width: 790px;
+        margin: 0 auto;
+        right: 20px;
+    }
+    .logo-start {
+        margin-top: 33%;
+    }
+    header {
+        background-image: none;
+        background-color: #fdd60f;
+    }
+    .btn_start a {
+        border: 3px solid #fff;
+        padding: 35px 50px 35px 50px;
+        border-radius: 1000px;
+        color: #fff;
+        text-decoration: none;
+        font-size: 45px;
+        font-family: 'Monster';
+    }
+    .btn_start {
+        width: 100%;
+        text-align: center;
+        margin-top: 70px;
+    }
+    .logo img {
+        width: 70%;
+    }
+    .warpper_menu {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .logo {
+        visibility: hidden;
+    }
+    .nav {
+        margin-right: 10px;
+    }
+    .warpper_res {
+        width: 100%;
+    }
+    .social-buttons {
+        height: 90px;
+        margin: auto;
+        font-size: 0;
+        text-align: center;
+        position: absolute;
+        top: 119px;
+        left: -130px;
+    }
+    .social-button {
+        display: inline-block;
+        background-color: #fff;
+        width: 120px;
+        height: 120px;
+        line-height: 120px;
+        margin: 0 10px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+        opacity: .99;
+        border-radius: 28%;
+        box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.05);
+        transition: all 0.35s cubic-bezier(0.31, -0.105, 0.43, 1.59);
+    }
+    .social-button .fa {
+        font-size: 88px;
+        vertical-align: middle;
+        transform: scale(0.8);
+        transition: all 0.35s cubic-bezier(0.31, -0.105, 0.43, 1.59);
+    }
+    .images-award {
+        position: absolute;
+        bottom: -66px;
+        width: 100%;
+        left: -300px;
+    }
+
+    .gallery_big{
+    	width: 100%;
+    	overflow: visible;
+    	height: auto;
+    }
+
+    .gallery_section2 img {
+        width: 100%;
+    }
+
+    .gallery_big img{
+    	left:0;
+    	position: relative;
+    }
+
+    .gellery_small{
+    	visibility: hidden;
+    }
+}

@@ -1,0 +1,39 @@
+<svg id="Group_1_copy" data-name="Group 1 copy" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3000" height="2135" viewBox="0 0 3000 2135">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        filter: url(#filter);
+      }
+
+      .cls-3 {
+        fill: #d1d1d1;
+      }
+    </style>
+    <filter id="filter" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="-9.603" dy="68.328" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="8.888"/>
+      <feFlood result="flood" flood-color="#000001" flood-opacity="0.25"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Rounded_Rectangle_1" data-name="Rounded Rectangle 1" class="cls-1" d="M1189.88,259.283H2862.27c14.21,0,25.73,13.049,25.73,29.146V2217.87c0,16.09-11.52,29.14-25.73,29.14H1189.88c-14.21,0-25.73-13.05-25.73-29.14V288.429C1164.15,272.332,1175.67,259.283,1189.88,259.283Z"/>
+  <path id="Rounded_Rectangle_1-2" data-name="Rounded Rectangle 1" class="cls-1" d="M135.74,259.283H1808.13c14.21,0,25.72,13.049,25.72,29.146V2217.87c0,16.09-11.51,29.14-25.72,29.14H135.74c-14.21,0-25.73-13.05-25.73-29.14V288.429C110.01,272.332,121.53,259.283,135.74,259.283Z"/>
+  <g class="cls-2">
+    <path id="Rounded_Rectangle_1-3" data-name="Rounded Rectangle 1" class="cls-1" d="M720.556,55.009H2270.19c13.17,0,23.85,13.049,23.85,29.146V2013.59c0,16.1-10.68,29.15-23.85,29.15H720.556c-13.167,0-23.841-13.05-23.841-29.15V84.154C696.715,68.057,707.389,55.009,720.556,55.009Z"/>
+    <path id="Rounded_Rectangle_3" data-name="Rounded Rectangle 3" class="cls-3" d="M813.449,152.958H1182.37c24.26,0,43.92,21.22,43.92,47.4V563.4c0,26.175-19.66,47.394-43.92,47.394H813.449c-24.256,0-43.919-21.219-43.919-47.394V200.353C769.53,174.178,789.193,152.958,813.449,152.958Z"/>
+    <path id="Rounded_Rectangle_4" data-name="Rounded Rectangle 4" class="cls-3" d="M1291.35,151.063h917.81c9.73,0,17.62,6.919,17.62,15.454v25.964c0,8.536-7.89,15.455-17.62,15.455H1291.35c-9.73,0-17.62-6.919-17.62-15.455V166.517C1273.73,157.982,1281.62,151.063,1291.35,151.063Z"/>
+    <path id="Rounded_Rectangle_4_copy" data-name="Rounded Rectangle 4 copy" class="cls-3" d="M1283.15,251.539h490.63c5.2,0,9.42,6.919,9.42,15.455v25.964c0,8.535-4.22,15.454-9.42,15.454H1283.15c-5.2,0-9.42-6.919-9.42-15.454V266.994C1273.73,258.458,1277.95,251.539,1283.15,251.539Z"/>
+    <path id="Rounded_Rectangle_4_copy_2" data-name="Rounded Rectangle 4 copy 2" class="cls-3" d="M1291.35,354.859h917.81c9.73,0,17.62,6.919,17.62,15.455v25.964c0,8.535-7.89,15.454-17.62,15.454H1291.35c-9.73,0-17.62-6.919-17.62-15.454V370.314C1273.73,361.778,1281.62,354.859,1291.35,354.859Z"/>
+    <path id="Rounded_Rectangle_4_copy_3" data-name="Rounded Rectangle 4 copy 3" class="cls-3" d="M1291.35,460.075h917.81c9.73,0,17.62,6.919,17.62,15.455v25.964c0,8.535-7.89,15.454-17.62,15.454H1291.35c-9.73,0-17.62-6.919-17.62-15.454V475.53C1273.73,466.994,1281.62,460.075,1291.35,460.075Z"/>
+    <path id="Rounded_Rectangle_4_copy_4" data-name="Rounded Rectangle 4 copy 4" class="cls-3" d="M1291.35,563.4h917.81c9.73,0,17.62,6.919,17.62,15.455v25.964c0,8.535-7.89,15.454-17.62,15.454H1291.35c-9.73,0-17.62-6.919-17.62-15.454V578.85C1273.73,570.314,1281.62,563.4,1291.35,563.4Z"/>
+  </g>
+</svg>

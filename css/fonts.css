@@ -1,0 +1,46 @@
+html, *{
+	padding: 0;
+	margin: 0;
+}
+@font-face{
+	font-family:'Ave';
+	src:url(../fonts/AveFedan_PERSONAL_USE.ttf);
+}
+@font-face{
+	font-family:'Muller_B';
+	src:url(../fonts/Muller-ExtraBold-DEMO.ttf);
+}
+@font-face{
+	font-family:'Muller_L';
+	src:url(../fonts/Muller-Thin-DEMO.ttf);
+}
+
+@font-face {
+	font-family: 'Supermarket';
+	src: url(../fonts/supermarket.ttf);
+}
+
+@font-face {
+	font-family: 'Monster';
+	src: url(../fonts/Montserrat-Bold.otf);
+}
+
+@font-face {
+	font-family: 'RSU';
+	src: url(../fonts/RSU_Regular.ttf);
+}
+
+@font-face {
+	font-family: 'RSU_B';
+	src: url(../fonts/RSU_Text_Bold.ttf);
+}
+
+@font-face {
+	font-family: 'RSU_I';
+	src: url(../fonts/RSU_Text_Italic.ttf);
+}
+
+@font-face {
+	font-family: 'RSU_R';
+	src: url(../fonts/RSU _ext_Regular.ttf);
+}
